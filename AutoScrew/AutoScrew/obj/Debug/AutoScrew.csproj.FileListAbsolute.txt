@@ -1,0 +1,98 @@
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\bin\Debug\AutoScrew.exe.config
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\bin\Debug\AutoScrew.exe
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\bin\Debug\AutoScrew.pdb
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Form1.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Properties.Resources.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.GenerateResource.Cache
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.exe
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.pdb
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\bin\Debug\ChartYiledRate.dll
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\bin\Debug\ChartYiledRate.pdb
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Notice.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.IOTest.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\APP\AutoScrew.exe.config
+C:\Users\CPT-CTO\Desktop\AutoScrew\APP\AutoScrew.exe
+C:\Users\CPT-CTO\Desktop\AutoScrew\APP\AutoScrew.pdb
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.MainStream.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csprojResolveAssemblyReference.cache
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\APP\AutoScrew.exe.config
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.exe
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.pdb
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\APP\AutoScrew.exe
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\APP\AutoScrew.pdb
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Notice.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.IOTest.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Form1.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.MainStream.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Properties.Resources.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.GenerateResource.Cache
+C:\Users\CPT-CTO\Desktop\AutoScrew2\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csprojResolveAssemblyReference.cache
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\APP\AutoScrew.exe.config
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.exe
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.pdb
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\APP\AutoScrew.exe
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\APP\AutoScrew.pdb
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Notice.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.IOTest.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Form1.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.MainStream.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Properties.Resources.resources
+C:\Users\CPT-CTO\Desktop\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.GenerateResource.Cache
+F:\SW\AutoScrew\AutoScrew\APP\AutoScrew.exe.config
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.exe
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.pdb
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Notice.resources
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.IOTest.resources
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Form1.resources
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.MainStream.resources
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Properties.Resources.resources
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.GenerateResource.Cache
+F:\SW\AutoScrew\AutoScrew\APP\AutoScrew.exe
+F:\SW\AutoScrew\AutoScrew\APP\AutoScrew.pdb
+F:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csprojResolveAssemblyReference.cache
+E:\SW\AutoScrew\AutoScrew\APP\AutoScrew.exe.config
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.exe
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.pdb
+E:\SW\AutoScrew\AutoScrew\APP\AutoScrew.exe
+E:\SW\AutoScrew\AutoScrew\APP\AutoScrew.pdb
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Notice.resources
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.IOTest.resources
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Form1.resources
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.MainStream.resources
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Properties.Resources.resources
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.GenerateResource.Cache
+E:\SW\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csprojResolveAssemblyReference.cache
+E:\sw-new\AutoScrew\AutoScrew\APP\AutoScrew.exe.config
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.exe
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.pdb
+E:\sw-new\AutoScrew\AutoScrew\APP\AutoScrew.exe
+E:\sw-new\AutoScrew\AutoScrew\APP\AutoScrew.pdb
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Notice.resources
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.IOTest.resources
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Form1.resources
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.MainStream.resources
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Properties.Resources.resources
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.GenerateResource.Cache
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.ResetProcess.resources
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\AutoScrew.ResetProcess.zh-CN.resources
+E:\sw-new\AutoScrew\AutoScrew\AutoScrew\obj\Debug\zh-CN\AutoScrew.resources.dll
+E:\sw-new\AutoScrew\AutoScrew\APP\zh-CN\AutoScrew.resources.dll
+C:\Users\Koben Lulu\Desktop\AutoScrew\APP\AutoScrew.exe.config
+C:\Users\Koben Lulu\Desktop\AutoScrew\APP\AutoScrew.exe
+C:\Users\Koben Lulu\Desktop\AutoScrew\APP\AutoScrew.pdb
+C:\Users\Koben Lulu\Desktop\AutoScrew\APP\zh-CN\AutoScrew.resources.dll
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.AssemblyReference.cache
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.SuggestedBindingRedirects.cache
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Notice.resources
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.IOTest.resources
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Form1.resources
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.ResetProcess.resources
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.MainStream.resources
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.Properties.Resources.resources
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.ResetProcess.zh-CN.resources
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.GenerateResource.cache
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.CoreCompileInputs.cache
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\zh-CN\AutoScrew.resources.dll
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.csproj.CopyComplete
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.exe
+C:\Users\Koben Lulu\Desktop\AutoScrew\AutoScrew\obj\Debug\AutoScrew.pdb
